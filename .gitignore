@@ -21,3 +21,26 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+Icon?
+._*
+
+# macOS Spotlight files
+.Spotlight-V100
+.Trashes
+
+# macOS Volume settings
+.VolumeIcon.icns
+
+# macOS Finder tags
+*.AppleDouble
+
+# macOS custom folder settings
+.metadata_never_index
+.fseventsd
